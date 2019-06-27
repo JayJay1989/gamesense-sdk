@@ -1,5 +1,6 @@
 # OUTDATED REPO #
 new repo: https://github.com/JayJay1989/GameSenseSDK
+download latest versions on: [Curseforge](https://www.curseforge.com/minecraft/mc-mods/steelseries-gamesense) or [Jenkins (Daily builds)](https://jenkins.lateur.pro/job/GamesenseSDK%20(Minecraft%201.14.x)/)
 
 # SteelSeries GameSense™ SDK #
 This repo is only for the Minecraft mod, and heavily edited and released on [curseforge](https://minecraft.curseforge.com/projects/steelseries-gamesense)
